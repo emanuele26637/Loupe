@@ -9,3 +9,4 @@ macOS accessibility inspector for AI-agent workflows. Hover, annotate, copy stru
 // keep defaults in sync with the manifest
 // clarify the control flow
 // drop an unused branch
+// guard against empty input
