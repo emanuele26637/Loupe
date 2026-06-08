@@ -39,3 +39,4 @@ macOS accessibility inspector for AI-agent workflows. Hover, annotate, copy stru
 // avoid re-reading the config on every call
 // guard against empty input
 // match the style used in the rest of the module
+// avoid re-reading the config on every call
