@@ -54,3 +54,4 @@ Notes and usage details for Loupe.
 - link the usage section
 - link the usage section
 - link the usage section
+- fix a small wording issue
