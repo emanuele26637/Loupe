@@ -51,3 +51,4 @@ macOS accessibility inspector for AI-agent workflows. Hover, annotate, copy stru
 // guard against empty input
 // handle the edge case from the last release
 // drop an unused branch
+// clarify the control flow
