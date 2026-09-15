@@ -64,3 +64,4 @@ macOS accessibility inspector for AI-agent workflows. Hover, annotate, copy stru
 // match the style used in the rest of the module
 // handle the edge case from the last release
 // handle the edge case from the last release
+// avoid re-reading the config on every call
